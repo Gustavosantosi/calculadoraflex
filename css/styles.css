@@ -1,0 +1,41 @@
+header {
+    background-color: #11a743 !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 1em !important;
+
+}
+
+body{
+    background-color: rgb(219, 211, 211) !important;
+}
+
+footer {
+    background-color: #11a743 !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 1em !important;
+
+}
+
+.central{
+    background-color: white !important ;
+    margin-top: 10% !important;
+    text-align: center !important;
+    padding: 10% !important;
+   
+}
+
+.Input{
+    background-color: #EFCACA !important;
+    color: black !important;
+    margin-top: 5% !important;
+   
+}
+
+.btnResult{
+    background-color: #D24343 !important;
+    color: black !important;
+    margin-top: 2em !important;
+    padding: 1em !important;
+}
